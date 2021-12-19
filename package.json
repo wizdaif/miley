@@ -1,0 +1,30 @@
+{
+  "name": "miley",
+  "version": "0.0.1",
+  "description": "Modmail at it's finest.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wizdaif/miley.git"
+  },
+  "keywords": [
+    "discordjs",
+    "discord.js",
+    "modmail",
+    "tickets",
+    "support"
+  ],
+  "author": "the boy next door",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wizdaif/miley/issues"
+  },
+  "homepage": "https://github.com/wizdaif/miley#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0"
+  }
+}
